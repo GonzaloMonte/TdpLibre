@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 919c4f7e5ac407a489dc416653e36e0a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - pelota: {fileID: 6595479701722329338, guid: 9b505da4f04466a44ad6ffde13099b79,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
